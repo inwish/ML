@@ -5,3 +5,14 @@
  * 
  */
 
+class Pinger{
+	
+	
+	
+	
+	void ping(){
+		
+	}
+	
+	
+}
